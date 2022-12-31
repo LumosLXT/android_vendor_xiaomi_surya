@@ -699,7 +699,6 @@ PRODUCT_PACKAGES += \
     libwvhidl \
     libxmi_high_dynamic_range \
     libxml \
-    libxml2_vendor \
     libxtadapter \
     libwvdrmengine \
     qcrild_librilutils \
